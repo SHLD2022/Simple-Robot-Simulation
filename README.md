@@ -3,6 +3,10 @@
 
 For Detail, check: <u>help_SimpleRobotRJ.mlx</u> or <u>help_SimpleRobotRJ.pdf</u> file
 
+![](./demo1.png)
+
+![](./demo2.png)
+
 
 
 Create a simple robot station, user can define there own robots.
